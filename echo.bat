@@ -1,1 +1,3 @@
-echo "tk,ui,mjuih,n"khfkshgfvusdk
+echo "this is scm poll"
+md build
+md test
